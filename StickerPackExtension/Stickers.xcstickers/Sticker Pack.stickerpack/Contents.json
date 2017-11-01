@@ -1,9 +1,473 @@
 {
+  "stickers" : [
+    {
+      "filename" : "socks.sticker"
+    },
+    {
+      "filename" : "fish.sticker"
+    },
+    {
+      "filename" : "soap.sticker"
+    },
+    {
+      "filename" : "Vodka.sticker"
+    },
+    {
+      "filename" : "stamp.sticker"
+    },
+    {
+      "filename" : "Kirpitch.sticker"
+    },
+    {
+      "filename" : "mobile.sticker"
+    },
+    {
+      "filename" : "taco.sticker"
+    },
+    {
+      "filename" : "stone.sticker"
+    },
+    {
+      "filename" : "barbaris.sticker"
+    },
+    {
+      "filename" : "bra.sticker"
+    },
+    {
+      "filename" : "censored.sticker"
+    },
+    {
+      "filename" : "doge.sticker"
+    },
+    {
+      "filename" : "grib.sticker"
+    },
+    {
+      "filename" : "kofeta.sticker"
+    },
+    {
+      "filename" : "kotleta.sticker"
+    },
+    {
+      "filename" : "ok.sticker"
+    },
+    {
+      "filename" : "pelmen.sticker"
+    },
+    {
+      "filename" : "pigeonhead.sticker"
+    },
+    {
+      "filename" : "pirojok.sticker"
+    },
+    {
+      "filename" : "shaurma.sticker"
+    },
+    {
+      "filename" : "sliding.sticker"
+    },
+    {
+      "filename" : "vishenk.sticker"
+    },
+    {
+      "filename" : "yasno.sticker"
+    },
+    {
+      "filename" : "condom.sticker"
+    },
+    {
+      "filename" : "chicken.sticker"
+    },
+    {
+      "filename" : "underwear.sticker"
+    },
+    {
+      "filename" : "coffee copy.sticker"
+    },
+    {
+      "filename" : "slipper.sticker"
+    },
+    {
+      "filename" : "floppy.sticker"
+    },
+    {
+      "filename" : "love.sticker"
+    },
+    {
+      "filename" : "tracktor.sticker"
+    },
+    {
+      "filename" : "egg.sticker"
+    },
+    {
+      "filename" : "egg copy.sticker"
+    },
+    {
+      "filename" : "fire.sticker"
+    },
+    {
+      "filename" : "knife.sticker"
+    },
+    {
+      "filename" : "beet.sticker"
+    },
+    {
+      "filename" : "fly.sticker"
+    },
+    {
+      "filename" : "rainbow.sticker"
+    },
+    {
+      "filename" : "maika.sticker"
+    },
+    {
+      "filename" : "hat.sticker"
+    },
+    {
+      "filename" : "spravka.sticker"
+    },
+    {
+      "filename" : "racoon.sticker"
+    },
+    {
+      "filename" : "trash.sticker"
+    },
+    {
+      "filename" : "watermellon.sticker"
+    },
+    {
+      "filename" : "stone2.sticker"
+    },
+    {
+      "filename" : "teapot.sticker"
+    },
+    {
+      "filename" : "danger.sticker"
+    },
+    {
+      "filename" : "remote.sticker"
+    },
+    {
+      "filename" : "onion.sticker"
+    },
+    {
+      "filename" : "goose.sticker"
+    },
+    {
+      "filename" : "rope.sticker"
+    },
+    {
+      "filename" : "but.sticker"
+    },
+    {
+      "filename" : "desk.sticker"
+    },
+    {
+      "filename" : "vr.sticker"
+    },
+    {
+      "filename" : "explosion.sticker"
+    },
+    {
+      "filename" : "passport.sticker"
+    },
+    {
+      "filename" : "sriracha.sticker"
+    },
+    {
+      "filename" : "pan.sticker"
+    },
+    {
+      "filename" : "hanger.sticker"
+    },
+    {
+      "filename" : "ramen.sticker"
+    },
+    {
+      "filename" : "toothbrush.sticker"
+    },
+    {
+      "filename" : "soda copy.sticker"
+    },
+    {
+      "filename" : "conserve.sticker"
+    },
+    {
+      "filename" : "wifi.sticker"
+    },
+    {
+      "filename" : "cat.sticker"
+    },
+    {
+      "filename" : "Artboard Copy 35.sticker"
+    },
+    {
+      "filename" : "toiletpaper.sticker"
+    },
+    {
+      "filename" : "joint.sticker"
+    },
+    {
+      "filename" : "nail.sticker"
+    },
+    {
+      "filename" : "tape.sticker"
+    },
+    {
+      "filename" : "ketchup.sticker"
+    },
+    {
+      "filename" : "shrimp.sticker"
+    },
+    {
+      "filename" : "cucumber.sticker"
+    },
+    {
+      "filename" : "pigeon.sticker"
+    },
+    {
+      "filename" : "salt.sticker"
+    },
+    {
+      "filename" : "Bong.sticker"
+    },
+    {
+      "filename" : "stapler.sticker"
+    },
+    {
+      "filename" : "light.sticker"
+    },
+    {
+      "filename" : "calculator copy 3.sticker"
+    },
+    {
+      "filename" : "bread.sticker"
+    },
+    {
+      "filename" : "axe.sticker"
+    },
+    {
+      "filename" : "steering wheel.sticker"
+    },
+    {
+      "filename" : "extinuisher.sticker"
+    },
+    {
+      "filename" : "armatura.sticker"
+    },
+    {
+      "filename" : "cat-1.sticker"
+    },
+    {
+      "filename" : "ball.sticker"
+    },
+    {
+      "filename" : "battary.sticker"
+    },
+    {
+      "filename" : "bible.sticker"
+    },
+    {
+      "filename" : "bread-1.sticker"
+    },
+    {
+      "filename" : "bud.sticker"
+    },
+    {
+      "filename" : "coke.sticker"
+    },
+    {
+      "filename" : "cone.sticker"
+    },
+    {
+      "filename" : "error.sticker"
+    },
+    {
+      "filename" : "glasses.sticker"
+    },
+    {
+      "filename" : "Gluten free.sticker"
+    },
+    {
+      "filename" : "goat.sticker"
+    },
+    {
+      "filename" : "horse.sticker"
+    },
+    {
+      "filename" : "kapusta.sticker"
+    },
+    {
+      "filename" : "leaf.sticker"
+    },
+    {
+      "filename" : "lighter.sticker"
+    },
+    {
+      "filename" : "medal.sticker"
+    },
+    {
+      "filename" : "mentos.sticker"
+    },
+    {
+      "filename" : "yes.sticker"
+    },
+    {
+      "filename" : "no.sticker"
+    },
+    {
+      "filename" : "opener.sticker"
+    },
+    {
+      "filename" : "penguin.sticker"
+    },
+    {
+      "filename" : "podorozhnik.sticker"
+    },
+    {
+      "filename" : "recycle.sticker"
+    },
+    {
+      "filename" : "redbull.sticker"
+    },
+    {
+      "filename" : "rst.sticker"
+    },
+    {
+      "filename" : "rubbertape.sticker"
+    },
+    {
+      "filename" : "rug.sticker"
+    },
+    {
+      "filename" : "salo.sticker"
+    },
+    {
+      "filename" : "sapog.sticker"
+    },
+    {
+      "filename" : "shetka.sticker"
+    },
+    {
+      "filename" : "shot.sticker"
+    },
+    {
+      "filename" : "shproty.sticker"
+    },
+    {
+      "filename" : "skipidar.sticker"
+    },
+    {
+      "filename" : "soda.sticker"
+    },
+    {
+      "filename" : "stick.sticker"
+    },
+    {
+      "filename" : "stick2.sticker"
+    },
+    {
+      "filename" : "tarelka.sticker"
+    },
+    {
+      "filename" : "toiletcleaner.sticker"
+    },
+    {
+      "filename" : "tomato.sticker"
+    },
+    {
+      "filename" : "Vitamin 2.sticker"
+    },
+    {
+      "filename" : "Vitamin.sticker"
+    },
+    {
+      "filename" : "wrench.sticker"
+    },
+    {
+      "filename" : "5kopeek.sticker"
+    },
+    {
+      "filename" : "banan.sticker"
+    },
+    {
+      "filename" : "bayan.sticker"
+    },
+    {
+      "filename" : "buter.sticker"
+    },
+    {
+      "filename" : "condom2.sticker"
+    },
+    {
+      "filename" : "e.sticker"
+    },
+    {
+      "filename" : "ekler.sticker"
+    },
+    {
+      "filename" : "igra.sticker"
+    },
+    {
+      "filename" : "kaseta.sticker"
+    },
+    {
+      "filename" : "lampochka.sticker"
+    },
+    {
+      "filename" : "lineyka.sticker"
+    },
+    {
+      "filename" : "moment.sticker"
+    },
+    {
+      "filename" : "nevalashka.sticker"
+    },
+    {
+      "filename" : "nozhnicy.sticker"
+    },
+    {
+      "filename" : "paket.sticker"
+    },
+    {
+      "filename" : "payalnik.sticker"
+    },
+    {
+      "filename" : "pizza.sticker"
+    },
+    {
+      "filename" : "preshepka.sticker"
+    },
+    {
+      "filename" : "pugovica.sticker"
+    },
+    {
+      "filename" : "spichka.sticker"
+    },
+    {
+      "filename" : "spichki.sticker"
+    },
+    {
+      "filename" : "ushanka.sticker"
+    },
+    {
+      "filename" : "usy.sticker"
+    },
+    {
+      "filename" : "valenok.sticker"
+    },
+    {
+      "filename" : "venik.sticker"
+    },
+    {
+      "filename" : "wino.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
